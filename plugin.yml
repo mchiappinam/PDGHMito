@@ -1,0 +1,13 @@
+name: PDGHMito
+main: me.mchiappinam.pdghmito.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.net/
+depends: Legendchat
+commands:
+   mito:
+      description: Info.
+      usage: /<command>
+   setmito:
+      description: Info.
+      usage: /<command>
